@@ -1,0 +1,15 @@
+API key: F4ABEB39-2D73-494C-9550-B7E9EE0799A0
+    needs to be included as the UserID field in any API request
+    
+For starters, comparing 2012 farm vs non-farm income by state, ie keycodes FPI_SI vs NFPI_SI.
+
+
+Data sources:
+------------------------------------------------------------
+
+non-farm income:
+http://www.bea.gov/api/data/?&UserID=F4ABEB39-2D73-494C-9550-B7E9EE0799A0&method=getdata&datasetname=RegionalData&keycode=NFPI_SI&year=2012
+
+farm income:
+http://www.bea.gov/api/data/?&UserID=F4ABEB39-2D73-494C-9550-B7E9EE0799A0&method=getdata&datasetname=RegionalData&keycode=FPI_SI&year=2012
+

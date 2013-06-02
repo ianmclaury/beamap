@@ -1,0 +1,422 @@
+[
+    {
+        "FarmIncome": 97757513, 
+        "GeoFips": "00000", 
+        "GeoName": "United States", 
+        "NonfarmIncome": 13304111180, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 491717, 
+        "GeoFips": "01000", 
+        "GeoName": "Alabama", 
+        "NonfarmIncome": 171291192, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 8991, 
+        "GeoFips": "02000", 
+        "GeoName": "Alaska", 
+        "NonfarmIncome": 34206572, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 843508, 
+        "GeoFips": "04000", 
+        "GeoName": "Arizona", 
+        "NonfarmIncome": 234937231, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1752184, 
+        "GeoFips": "05000", 
+        "GeoName": "Arkansas", 
+        "NonfarmIncome": 100650390, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 14944533, 
+        "GeoFips": "06000", 
+        "GeoName": "California", 
+        "NonfarmIncome": 1696165786, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 990372, 
+        "GeoFips": "08000", 
+        "GeoName": "Colorado", 
+        "NonfarmIncome": 233151958, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 176719, 
+        "GeoFips": "09000", 
+        "GeoName": "Connecticut", 
+        "NonfarmIncome": 211323112, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 124405, 
+        "GeoFips": "10000", 
+        "GeoName": "Delaware", 
+        "NonfarmIncome": 38338257, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 0, 
+        "GeoFips": "11000", 
+        "GeoName": "District of Columbia", 
+        "NonfarmIncome": 47240557, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2311881, 
+        "GeoFips": "12000", 
+        "GeoName": "Florida", 
+        "NonfarmIncome": 777026934, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2519034, 
+        "GeoFips": "13000", 
+        "GeoName": "Georgia", 
+        "NonfarmIncome": 363221155, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 249059, 
+        "GeoFips": "15000", 
+        "GeoName": "Hawaii", 
+        "NonfarmIncome": 61045744, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2261506, 
+        "GeoFips": "16000", 
+        "GeoName": "Idaho", 
+        "NonfarmIncome": 51592210, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 3958622, 
+        "GeoFips": "17000", 
+        "GeoName": "Illinois", 
+        "NonfarmIncome": 573049866, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2292990, 
+        "GeoFips": "18000", 
+        "GeoName": "Indiana", 
+        "NonfarmIncome": 238949531, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 7898676, 
+        "GeoFips": "19000", 
+        "GeoName": "Iowa", 
+        "NonfarmIncome": 121604581, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2627307, 
+        "GeoFips": "20000", 
+        "GeoName": "Kansas", 
+        "NonfarmIncome": 118104976, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 959227, 
+        "GeoFips": "21000", 
+        "GeoName": "Kentucky", 
+        "NonfarmIncome": 152535553, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1413134, 
+        "GeoFips": "22000", 
+        "GeoName": "Louisiana", 
+        "NonfarmIncome": 179959457, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 202862, 
+        "GeoFips": "23000", 
+        "GeoName": "Maine", 
+        "NonfarmIncome": 52274703, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 484207, 
+        "GeoFips": "24000", 
+        "GeoName": "Maryland", 
+        "NonfarmIncome": 305342567, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 138093, 
+        "GeoFips": "25000", 
+        "GeoName": "Massachusetts", 
+        "NonfarmIncome": 363321252, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2655360, 
+        "GeoFips": "26000", 
+        "GeoName": "Michigan", 
+        "NonfarmIncome": 367943195, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 6111351, 
+        "GeoFips": "27000", 
+        "GeoName": "Minnesota", 
+        "NonfarmIncome": 242552056, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1777796, 
+        "GeoFips": "28000", 
+        "GeoName": "Mississippi", 
+        "NonfarmIncome": 96943912, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1594549, 
+        "GeoFips": "29000", 
+        "GeoName": "Missouri", 
+        "NonfarmIncome": 233559130, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 731575, 
+        "GeoFips": "30000", 
+        "GeoName": "Montana", 
+        "NonfarmIncome": 36830366, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 4831832, 
+        "GeoFips": "31000", 
+        "GeoName": "Nebraska", 
+        "NonfarmIncome": 75220582, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 173058, 
+        "GeoFips": "32000", 
+        "GeoName": "Nevada", 
+        "NonfarmIncome": 102903252, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 27802, 
+        "GeoFips": "33000", 
+        "GeoName": "New Hampshire", 
+        "NonfarmIncome": 62122434, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 372824, 
+        "GeoFips": "34000", 
+        "GeoName": "New Jersey", 
+        "NonfarmIncome": 475020268, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1349310, 
+        "GeoFips": "35000", 
+        "GeoName": "New Mexico", 
+        "NonfarmIncome": 71809850, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1542691, 
+        "GeoFips": "36000", 
+        "GeoName": "New York", 
+        "NonfarmIncome": 1017971371, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2519439, 
+        "GeoFips": "37000", 
+        "GeoName": "North Carolina", 
+        "NonfarmIncome": 358781866, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 3632377, 
+        "GeoFips": "38000", 
+        "GeoName": "North Dakota", 
+        "NonfarmIncome": 32673443, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2850580, 
+        "GeoFips": "39000", 
+        "GeoName": "Ohio", 
+        "NonfarmIncome": 450705694, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1423467, 
+        "GeoFips": "40000", 
+        "GeoName": "Oklahoma", 
+        "NonfarmIncome": 147375526, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1325889, 
+        "GeoFips": "41000", 
+        "GeoName": "Oregon", 
+        "NonfarmIncome": 149915240, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 1734101, 
+        "GeoFips": "42000", 
+        "GeoName": "Pennsylvania", 
+        "NonfarmIncome": 554958286, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 16048, 
+        "GeoFips": "44000", 
+        "GeoName": "Rhode Island", 
+        "NonfarmIncome": 47237043, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 336234, 
+        "GeoFips": "45000", 
+        "GeoName": "South Carolina", 
+        "NonfarmIncome": 161527496, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 3510998, 
+        "GeoFips": "46000", 
+        "GeoName": "South Dakota", 
+        "NonfarmIncome": 32872705, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 515676, 
+        "GeoFips": "47000", 
+        "GeoName": "Tennessee", 
+        "NonfarmIncome": 242740810, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 5202488, 
+        "GeoFips": "48000", 
+        "GeoName": "Texas", 
+        "NonfarmIncome": 1075507161, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 216766, 
+        "GeoFips": "49000", 
+        "GeoName": "Utah", 
+        "NonfarmIncome": 98580402, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 201229, 
+        "GeoFips": "50000", 
+        "GeoName": "Vermont", 
+        "NonfarmIncome": 26713404, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 583195, 
+        "GeoFips": "51000", 
+        "GeoName": "Virginia", 
+        "NonfarmIncome": 384820648, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 3023418, 
+        "GeoFips": "53000", 
+        "GeoName": "Washington", 
+        "NonfarmIncome": 310188617, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": -73396, 
+        "GeoFips": "54000", 
+        "GeoName": "West Virginia", 
+        "NonfarmIncome": 64041856, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 2716101, 
+        "GeoFips": "55000", 
+        "GeoName": "Wisconsin", 
+        "NonfarmIncome": 229413004, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 205728, 
+        "GeoFips": "56000", 
+        "GeoName": "Wyoming", 
+        "NonfarmIncome": 27847979, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 762753, 
+        "GeoFips": "91000", 
+        "GeoName": "New England", 
+        "NonfarmIncome": 762991948, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 4258228, 
+        "GeoFips": "92000", 
+        "GeoName": "Mideast", 
+        "NonfarmIncome": 2438871306, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 14473653, 
+        "GeoFips": "93000", 
+        "GeoName": "Great Lakes", 
+        "NonfarmIncome": 1860061290, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 30207090, 
+        "GeoFips": "94000", 
+        "GeoName": "Plains", 
+        "NonfarmIncome": 856587473, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 15106121, 
+        "GeoFips": "95000", 
+        "GeoName": "Southeast", 
+        "NonfarmIncome": 3053541269, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 8818773, 
+        "GeoFips": "96000", 
+        "GeoName": "Southwest", 
+        "NonfarmIncome": 1529629768, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 4405947, 
+        "GeoFips": "97000", 
+        "GeoName": "Rocky Mountain", 
+        "NonfarmIncome": 448002915, 
+        "TimePeriod": "2012"
+    }, 
+    {
+        "FarmIncome": 19724948, 
+        "GeoFips": "98000", 
+        "GeoName": "Far West", 
+        "NonfarmIncome": 2354425211, 
+        "TimePeriod": "2012"
+    }
+]
