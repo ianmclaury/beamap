@@ -1,6 +1,6 @@
 """Usage:
 
-    $ fab monkeygrade deploy
+    $ fab monkeygrade deploy -u [username]
 
 """
 
@@ -15,7 +15,6 @@ from fabric.utils import abort
 @task
 def monkeygrade():
     env.hosts = ['ekinek.pair.com']
-    env.user = 'ianjones'
     env.install_dir = '/usr/home/ianjones/public_html/monkeygrade/beamap'
 
 
