@@ -1,10 +1,9 @@
-function showValue(newValue)
-{
-  document.getElementById("range-label").innerHTML=newValue;
-//   clearMap();
-//   drawMap(newValue);
+var showValue = function(newValue) {
+  document.getElementById("range-label").innerHTML = newValue;
   applyStateClasses(newValue);
-}
+};
+// debounce here improves slider responsiveness on mobile
+showValue = _.debounce(showValue, 10, true);
 
 var width = 960,
     height = 500;
@@ -62,18 +61,10 @@ function drawMap(year){
       .data(topojson.feature(us, us.objects.states).features)
     .enter().append("path")
       .attr("class", function(d) { return quantize(rateById[year].get(d.id)); })
-//       .classed("state")
       .attr("id", function(d) {
         return "state-" + d.id;
       })
       .attr("d", path);
-
-  // svg.append("path")
-  //     .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
-  //     .attr("class", "states")
-  //     .attr("d", path);
-  
-//   applyStateClasses(year);
 }
 
 function applyStateClasses(year) {
